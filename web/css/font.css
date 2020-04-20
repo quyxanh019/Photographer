@@ -1,0 +1,56 @@
+.intro-image {
+    width: 700px;
+    height: auto;
+}
+
+.intro i {
+    font-size: 15px;
+}
+
+.view-gallery {
+    width: inherit;
+    padding-top: 60px;
+    display: flex;
+}
+
+.gallery-card {
+    padding-right: 26px;
+    width: 216px;
+}
+
+.image-card {
+    height: 180px;
+    width: inherit;
+}
+
+.image-card img {
+    width: inherit;
+    height: auto;
+}
+
+.content-card {
+    padding-top: 5px;
+}
+
+.content-card p {
+    line-height: 23px;
+}
+.view-gallery a {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-size: 22px;
+    color: white;
+}
+
+.about-me {
+    padding-top: 30px;
+}
+
+.about-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.about-me p {
+    line-height: 23px;
+}

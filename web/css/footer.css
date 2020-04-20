@@ -1,0 +1,20 @@
+
+.footer {
+    height: 90px;
+    background-color: #303030;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.display-content {
+    max-width: 940px;
+    margin: 0 auto;
+    padding-top: 35px;
+}
+
+.footer-infor a {
+    color: white;
+}
+
+
+

@@ -1,0 +1,49 @@
+
+body {
+    font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #9f494c;
+    background-image: url(../image/89546757.png);
+    height: auto;
+    padding-top:30px;
+    padding-bottom: 150px;
+}
+
+.content {
+    width: 940px;
+    margin: 0 auto ;
+    display: flex; 
+}
+
+.main-content {
+    width: 700px;
+    margin-right: 20px;
+}
+
+.main-content h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-weight: normal;
+}
+
+.paging{
+    padding: 5px;
+    text-align: center;
+}
+.paging a{
+    color: white;
+    text-decoration: none;
+}
+.here {
+    background-color: #fbaaef;
+}
+
+
+
+
