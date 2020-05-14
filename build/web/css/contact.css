@@ -1,0 +1,25 @@
+.address {
+    margin-bottom: 20px;
+}
+
+.title-name {
+    width: 90px;
+}
+
+.space {
+    padding-bottom: 20px;
+}
+
+
+.tel-mail  {
+    padding-bottom: 10px;
+}
+
+.map img {
+    width: 700px;
+    height: auto;
+}
+
+.map {
+    padding-top: 60px;
+}

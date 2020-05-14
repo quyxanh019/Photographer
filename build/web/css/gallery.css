@@ -1,0 +1,37 @@
+
+.image-large {
+    width: inherit;
+    height: 500px;
+}
+
+.image-large img {
+    width: inherit;
+    height: auto;
+}
+
+.detail-gallery {
+    margin-top: 30px;
+    display: grid;
+    grid-gap: 12px;
+    grid-template-columns: 166px 166px 166px 166px;
+
+}
+
+.image-small {
+    width: 166px;
+    height: 166px;
+    background-color: white;
+    border-radius: 3%;
+    text-align: center;
+    box-shadow: 0 40px 40px -40px black;
+}
+
+.image-small img {
+    height: auto;
+    width: 150px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+
+

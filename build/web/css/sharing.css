@@ -1,0 +1,35 @@
+.sharing {
+    width: 220px;
+}
+
+.share-title {
+    background-color: #303030;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+
+.share {
+    background-color: #8b3c3f;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.share-row {
+    display: flex;
+    height: 22px;
+    padding-top: 5px;
+}
+
+.share-image {
+    height: 15px;
+    width: 15px;
+    margin-right: 5px;
+}
+
+.share-text {
+    text-decoration: underline;
+    color: white;
+}
